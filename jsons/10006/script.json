@@ -116,7 +116,7 @@
             "Name_CHS": "",
             "Text_CHS": "人称[00FF00FF]「鬼腕对魔忍」[-]，被视为新世代希望而备受瞩目的凛花学姐，",
             "Name_CHT": "",
-            "Text_CHT": "被稱為[00FF00FF]「鬼腕對魔忍」[-]，視為新世代希望而備受矚目的凜花學姊，",
+            "Text_CHT": "人稱[00FF00FF]「鬼腕對魔忍」[-]，被視為新世代希望而備受矚目的凜花學姊，",
             "Name_ESP": "",
             "Text_ESP": "Una figura prominente para las siguientes generaciones, \r\ntambién conocido como el [00FF00FF]'Puños del Demonio'[-]."
         },
@@ -519,7 +519,7 @@
             "Name_CHS": "凜花",
             "Text_CHS": "啊啊，没关系。\n我从一开始就不觉得你会懂插花呢。",
             "Name_CHT": "凜花",
-            "Text_CHT": "啊啊，沒關係。\n我從一開始就不覺得你懂插花呢。",
+            "Text_CHT": "啊啊，沒關係。\n我從一開始就不覺得你會懂插花呢。",
             "Name_ESP": "Rinka",
             "Text_ESP": "Ah, no importa. No esperaba que fueras un experto."
         },
@@ -1418,7 +1418,7 @@
             "Name_CHS": "",
             "Text_CHS": "在那样的学姐手中，插花渐渐成形。",
             "Name_CHT": "",
-            "Text_CHT": "在那樣的學姊手中，插花慢慢整理出雛形。",
+            "Text_CHT": "在那樣的學姊手中，插花漸漸成形。",
             "Name_ESP": "",
             "Text_ESP": "Dentro de sus manos, el conjunto de flores comenzó a ganar forma propia."
         },
@@ -1855,7 +1855,7 @@
             "Name_CHS": "风魔",
             "Text_CHS": "原来学姐一边和我聊天，一边在了解我的喜好啊。",
             "Name_CHT": "風魔",
-            "Text_CHT": "原來學姊一邊和我聊天，一邊掌握我的喜好啊。",
+            "Text_CHT": "原來學姊一邊和我聊天，一邊在了解我的喜好啊。",
             "Name_ESP": "Fuuma",
             "Text_ESP": "Me invitaste a conocer qué me gustaba mientras conversabas conmigo."
         },
